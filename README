@@ -1,6 +1,0 @@
-#include
-int main()
-{
-printf("Prueba Custom ROMs");
-return 0;
-}
